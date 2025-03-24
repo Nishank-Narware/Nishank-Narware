@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishank-narware&show_icons=true&locale=en&layout=compact" alt="nishank-narware" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishank-narware&show_icons=true&locale=en" alt="nishank-narware" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishank-narware&" alt="nishank-narware" /></p>--
 Nishank-Narware/Nishank-Narware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
