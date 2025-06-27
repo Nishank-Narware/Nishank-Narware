@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I'm Funny
 
 <!-<h1 align="center">Hi 👋, I'm Nishank Narware</h1>
-<h3 align="center">I'm 3rd year Engineering Student</h3>
+<h3 align="center">I'm 4th year Engineering Student</h3>
 
 <img align="right" alt="coding" width= "300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
