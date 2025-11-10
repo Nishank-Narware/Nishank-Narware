@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishank-Narware
 - 👀 I’m interested in Coding and Games
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning BlockChain Technology
 - 📫 How to reach me Gmail - nishank.narware1028@gmail.com
 - ⚡ Fun fact: I'm Funny
 
